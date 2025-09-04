@@ -14,4 +14,4 @@ Description:
  Clustering |  Unsupervised learning
  Bonus: 
  Try different clustering algorithms (e.g., DBSCAN) 
-Analyze average spending per cluste
+Analyze average spending per cluster
